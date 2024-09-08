@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Day 6 Project: Digital Clock App 🕒✨
 
-## Getting Started
+Welcome to Day 6 of my **30 Days 30 Projects Challenge**!
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The **Digital Clock App** is a sleek and simple web application that displays the current time in real-time. Users can toggle between 12-hour and 24-hour formats for a customized experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Real-Time Clock**: Displays the current time in hours, minutes, and seconds.
+- **12-Hour and 24-Hour Format**: Users can switch between these time formats effortlessly.
+- **Auto-Update**: The clock updates every second to reflect the current time.
+- **Responsive Design**: The app is fully responsive and works on all devices.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack
 
-## Learn More
+- **Next.js**: Built using the Next.js framework.
+- **React**: Handles UI components and the real-time clock logic.
+- **Tailwind CSS**: Provides consistent and clean design throughout the app.
+- **shadcn/ui**: Designed with pre-built Tailwind CSS components for a beautiful UI.
+- **Vercel**: Deployed the app for easy access and live viewing.
 
-To learn more about Next.js, take a look at the following resources:
+## Live Demo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Check out the live demo of the Digital Clock App on Vercel:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[Live Demo](https://digital-clock-app-pi.vercel.app/)
 
-## Deploy on Vercel
+## Screenshot
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Digital Clock App](https://github.com/user-attachments/assets/5fb609fa-034e-466c-afcc-68b42d18dbd8)
